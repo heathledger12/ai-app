@@ -1,0 +1,8 @@
+{
+  "name": "SmartAI Tamil",
+  "description": "SmartAI Tamil - Advanced AI assistant supporting Tamil and English for chat, writing, translation, smart tools, and creative assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
